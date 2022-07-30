@@ -1,0 +1,12 @@
+3 / 3 - Tomadas
+
+let lines = gets().split("\n");
+
+let line = lines.shift().split(' ');
+let soma = 0
+
+for(i=0;i< (line.length);i++){
+  let transfor = parseInt(line[i])
+  soma = soma + transfor
+}
+print(soma-3)
