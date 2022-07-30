@@ -10,6 +10,3 @@ for ( let i = 1; i < 10000; i++) {
 	  print(i);
 	}
 }
-
-
-°°°°OBS: Todos os #4 Testes rodaram!
