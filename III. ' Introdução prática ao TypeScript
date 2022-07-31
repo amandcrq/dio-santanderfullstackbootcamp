@@ -26,4 +26,3 @@ let employee3 = {
     name: "John",
 };
 console.log(`Código ${employee3.code} e o nome ${employee3.name} \n`);
-
