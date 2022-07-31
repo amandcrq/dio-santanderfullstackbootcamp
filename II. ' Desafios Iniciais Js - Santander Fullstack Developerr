@@ -1,4 +1,4 @@
-1 / 3 - Quadrado de Pares
+// 1 / 3 - Quadrado de Pares
 
 let lines = gets().split('\n');
 var N = parseInt(lines.shift());
